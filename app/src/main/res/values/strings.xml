@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App01ConversorMonetario</string>
+    <string name="converter_para_real">Converter Para Real\n</string>
+    <string name="converter_para_dollar">Converter Para Dólar\n</string>
+    <string name="valor_em_d_lar">Valor em Dólar:</string>
+    <string name="informe_um_valor">Informe um valor</string>
+</resources>
